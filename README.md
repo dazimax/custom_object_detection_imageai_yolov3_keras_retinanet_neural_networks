@@ -1,0 +1,2 @@
+# custom_object_detection_imageai_yolov3_keras_retinanet_neural_networks
+Purpose of this project was verify the User Authentication and reduce the false positive predictions by improving the effectiveness of detection full-face helmets with computer vision and machine learning technologies.  Also, send emergency alerts to the relevant authorities to take necessary actions before crime or robbery occurs in secure premises such as Banks, ATM, Jewellery shops, etc.
