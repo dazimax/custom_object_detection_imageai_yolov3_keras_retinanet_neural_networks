@@ -33,3 +33,6 @@ Outputs: Detected Objects, Email Notification send status, SMS Notification send
 14.    end for
 15.Call the object detection functionality with created custom dataset model and video input path
 ```
+
+# DEMO VIDEO
+https://www.youtube.com/watch?v=2g1QqlS_MHQ
