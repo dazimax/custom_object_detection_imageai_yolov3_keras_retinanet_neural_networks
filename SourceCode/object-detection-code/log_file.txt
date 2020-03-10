@@ -1,0 +1,614 @@
+2019-12-11 14:26:38 : FOR FRAME : 1
+2019-12-11 14:26:38 : Output for each object : []
+2019-12-11 14:26:38 : Output count for unique objects : {}
+2019-12-11 14:26:38 : ------------END OF A FRAME --------------
+2019-12-11 14:26:40 : FOR FRAME : 2
+2019-12-11 14:26:40 : Output for each object : []
+2019-12-11 14:26:40 : Output count for unique objects : {}
+2019-12-11 14:26:40 : ------------END OF A FRAME --------------
+2019-12-11 14:26:42 : FOR FRAME : 3
+2019-12-11 14:26:42 : Output for each object : []
+2019-12-11 14:26:42 : Output count for unique objects : {}
+2019-12-11 14:26:42 : ------------END OF A FRAME --------------
+2019-12-11 14:29:02 : FOR FRAME : 1
+2019-12-11 14:29:02 : Output for each object : []
+2019-12-11 14:29:02 : Output count for unique objects : {}
+2019-12-11 14:29:02 : ------------END OF A FRAME --------------
+2019-12-11 14:29:06 : FOR FRAME : 2
+2019-12-11 14:29:06 : Output for each object : []
+2019-12-11 14:29:06 : Output count for unique objects : {}
+2019-12-11 14:29:06 : ------------END OF A FRAME --------------
+2019-12-11 14:29:09 : FOR FRAME : 3
+2019-12-11 14:29:09 : Output for each object : []
+2019-12-11 14:29:09 : Output count for unique objects : {}
+2019-12-11 14:29:09 : ------------END OF A FRAME --------------
+2019-12-11 14:29:12 : FOR FRAME : 4
+2019-12-11 14:29:12 : Output for each object : []
+2019-12-11 14:29:12 : Output count for unique objects : {}
+2019-12-11 14:29:12 : ------------END OF A FRAME --------------
+2019-12-11 14:29:15 : FOR FRAME : 5
+2019-12-11 14:29:15 : Output for each object : []
+2019-12-11 14:29:15 : Output count for unique objects : {}
+2019-12-11 14:29:15 : ------------END OF A FRAME --------------
+2019-12-11 14:29:18 : FOR FRAME : 6
+2019-12-11 14:29:18 : Output for each object : []
+2019-12-11 14:29:18 : Output count for unique objects : {}
+2019-12-11 14:29:18 : ------------END OF A FRAME --------------
+2019-12-11 14:29:21 : FOR FRAME : 7
+2019-12-11 14:29:21 : Output for each object : []
+2019-12-11 14:29:21 : Output count for unique objects : {}
+2019-12-11 14:29:21 : ------------END OF A FRAME --------------
+2019-12-11 14:29:24 : FOR FRAME : 8
+2019-12-11 14:29:24 : Output for each object : []
+2019-12-11 14:29:24 : Output count for unique objects : {}
+2019-12-11 14:29:24 : ------------END OF A FRAME --------------
+2019-12-11 14:29:27 : FOR FRAME : 9
+2019-12-11 14:29:27 : Output for each object : []
+2019-12-11 14:29:27 : Output count for unique objects : {}
+2019-12-11 14:29:27 : ------------END OF A FRAME --------------
+2019-12-11 14:29:30 : FOR FRAME : 10
+2019-12-11 14:29:30 : Output for each object : []
+2019-12-11 14:29:30 : Output count for unique objects : {}
+2019-12-11 14:29:30 : ------------END OF A FRAME --------------
+2019-12-11 14:29:33 : FOR FRAME : 11
+2019-12-11 14:29:33 : Output for each object : []
+2019-12-11 14:29:33 : Output count for unique objects : {}
+2019-12-11 14:29:33 : ------------END OF A FRAME --------------
+2019-12-11 14:29:36 : FOR FRAME : 12
+2019-12-11 14:29:36 : Output for each object : []
+2019-12-11 14:29:36 : Output count for unique objects : {}
+2019-12-11 14:29:36 : ------------END OF A FRAME --------------
+2019-12-11 14:29:39 : FOR FRAME : 13
+2019-12-11 14:29:39 : Output for each object : []
+2019-12-11 14:29:39 : Output count for unique objects : {}
+2019-12-11 14:29:39 : ------------END OF A FRAME --------------
+2019-12-11 14:29:42 : FOR FRAME : 14
+2019-12-11 14:29:42 : Output for each object : []
+2019-12-11 14:29:42 : Output count for unique objects : {}
+2019-12-11 14:29:42 : ------------END OF A FRAME --------------
+2019-12-11 14:29:45 : FOR FRAME : 15
+2019-12-11 14:29:45 : Output for each object : []
+2019-12-11 14:29:45 : Output count for unique objects : {}
+2019-12-11 14:29:45 : ------------END OF A FRAME --------------
+2019-12-11 14:29:48 : FOR FRAME : 16
+2019-12-11 14:29:48 : Output for each object : []
+2019-12-11 14:29:48 : Output count for unique objects : {}
+2019-12-11 14:29:48 : ------------END OF A FRAME --------------
+2019-12-11 14:29:51 : FOR FRAME : 17
+2019-12-11 14:29:51 : Output for each object : []
+2019-12-11 14:29:51 : Output count for unique objects : {}
+2019-12-11 14:29:51 : ------------END OF A FRAME --------------
+2019-12-11 14:29:54 : FOR FRAME : 18
+2019-12-11 14:29:54 : Output for each object : []
+2019-12-11 14:29:54 : Output count for unique objects : {}
+2019-12-11 14:29:54 : ------------END OF A FRAME --------------
+2019-12-11 14:29:57 : FOR FRAME : 19
+2019-12-11 14:29:57 : Output for each object : []
+2019-12-11 14:29:57 : Output count for unique objects : {}
+2019-12-11 14:29:57 : ------------END OF A FRAME --------------
+2019-12-11 14:30:00 : FOR FRAME : 20
+2019-12-11 14:30:00 : Output for each object : []
+2019-12-11 14:30:00 : Output count for unique objects : {}
+2019-12-11 14:30:00 : ------------END OF A FRAME --------------
+2019-12-11 14:30:03 : FOR FRAME : 21
+2019-12-11 14:30:03 : Output for each object : []
+2019-12-11 14:30:03 : Output count for unique objects : {}
+2019-12-11 14:30:03 : ------------END OF A FRAME --------------
+2019-12-11 14:30:06 : FOR FRAME : 22
+2019-12-11 14:30:06 : Output for each object : []
+2019-12-11 14:30:06 : Output count for unique objects : {}
+2019-12-11 14:30:06 : ------------END OF A FRAME --------------
+2019-12-11 14:30:09 : FOR FRAME : 23
+2019-12-11 14:30:09 : Output for each object : []
+2019-12-11 14:30:09 : Output count for unique objects : {}
+2019-12-11 14:30:09 : ------------END OF A FRAME --------------
+2019-12-11 14:30:12 : FOR FRAME : 24
+2019-12-11 14:30:12 : Output for each object : []
+2019-12-11 14:30:12 : Output count for unique objects : {}
+2019-12-11 14:30:12 : ------------END OF A FRAME --------------
+2019-12-11 14:30:15 : FOR FRAME : 25
+2019-12-11 14:30:15 : Output for each object : []
+2019-12-11 14:30:15 : Output count for unique objects : {}
+2019-12-11 14:30:15 : ------------END OF A FRAME --------------
+2019-12-11 14:30:18 : FOR FRAME : 26
+2019-12-11 14:30:18 : Output for each object : []
+2019-12-11 14:30:18 : Output count for unique objects : {}
+2019-12-11 14:30:18 : ------------END OF A FRAME --------------
+2019-12-11 14:30:21 : FOR FRAME : 27
+2019-12-11 14:30:21 : Output for each object : []
+2019-12-11 14:30:21 : Output count for unique objects : {}
+2019-12-11 14:30:21 : ------------END OF A FRAME --------------
+2019-12-11 14:30:24 : FOR FRAME : 28
+2019-12-11 14:30:24 : Output for each object : []
+2019-12-11 14:30:24 : Output count for unique objects : {}
+2019-12-11 14:30:24 : ------------END OF A FRAME --------------
+2019-12-11 14:30:27 : FOR FRAME : 29
+2019-12-11 14:30:27 : Output for each object : []
+2019-12-11 14:30:27 : Output count for unique objects : {}
+2019-12-11 14:30:27 : ------------END OF A FRAME --------------
+2019-12-11 14:30:30 : FOR FRAME : 30
+2019-12-11 14:30:30 : Output for each object : []
+2019-12-11 14:30:30 : Output count for unique objects : {}
+2019-12-11 14:30:30 : ------------END OF A FRAME --------------
+2019-12-11 14:30:33 : FOR FRAME : 31
+2019-12-11 14:30:33 : Output for each object : []
+2019-12-11 14:30:33 : Output count for unique objects : {}
+2019-12-11 14:30:33 : ------------END OF A FRAME --------------
+2019-12-11 14:30:35 : FOR FRAME : 32
+2019-12-11 14:30:35 : Output for each object : []
+2019-12-11 14:30:35 : Output count for unique objects : {}
+2019-12-11 14:30:35 : ------------END OF A FRAME --------------
+2019-12-11 14:30:38 : FOR FRAME : 33
+2019-12-11 14:30:38 : Output for each object : []
+2019-12-11 14:30:38 : Output count for unique objects : {}
+2019-12-11 14:30:38 : ------------END OF A FRAME --------------
+2019-12-11 14:30:42 : FOR FRAME : 34
+2019-12-11 14:30:42 : Output for each object : []
+2019-12-11 14:30:42 : Output count for unique objects : {}
+2019-12-11 14:30:42 : ------------END OF A FRAME --------------
+2019-12-11 14:30:44 : FOR FRAME : 35
+2019-12-11 14:30:44 : Output for each object : []
+2019-12-11 14:30:44 : Output count for unique objects : {}
+2019-12-11 14:30:44 : ------------END OF A FRAME --------------
+2019-12-11 14:30:47 : FOR FRAME : 36
+2019-12-11 14:30:47 : Output for each object : []
+2019-12-11 14:30:47 : Output count for unique objects : {}
+2019-12-11 14:30:47 : ------------END OF A FRAME --------------
+2019-12-11 14:30:50 : FOR FRAME : 37
+2019-12-11 14:30:50 : Output for each object : []
+2019-12-11 14:30:50 : Output count for unique objects : {}
+2019-12-11 14:30:50 : ------------END OF A FRAME --------------
+2019-12-11 14:30:53 : FOR FRAME : 38
+2019-12-11 14:30:53 : Output for each object : []
+2019-12-11 14:30:53 : Output count for unique objects : {}
+2019-12-11 14:30:53 : ------------END OF A FRAME --------------
+2019-12-11 14:30:56 : FOR FRAME : 39
+2019-12-11 14:30:56 : Output for each object : []
+2019-12-11 14:30:56 : Output count for unique objects : {}
+2019-12-11 14:30:56 : ------------END OF A FRAME --------------
+2019-12-11 14:30:59 : FOR FRAME : 40
+2019-12-11 14:30:59 : Output for each object : []
+2019-12-11 14:30:59 : Output count for unique objects : {}
+2019-12-11 14:30:59 : ------------END OF A FRAME --------------
+2019-12-11 14:31:02 : FOR FRAME : 41
+2019-12-11 14:31:02 : Output for each object : []
+2019-12-11 14:31:02 : Output count for unique objects : {}
+2019-12-11 14:31:02 : ------------END OF A FRAME --------------
+2019-12-11 14:31:05 : FOR FRAME : 42
+2019-12-11 14:31:05 : Output for each object : []
+2019-12-11 14:31:05 : Output count for unique objects : {}
+2019-12-11 14:31:05 : ------------END OF A FRAME --------------
+2019-12-11 14:31:08 : FOR FRAME : 43
+2019-12-11 14:31:08 : Output for each object : []
+2019-12-11 14:31:08 : Output count for unique objects : {}
+2019-12-11 14:31:08 : ------------END OF A FRAME --------------
+2019-12-11 14:31:12 : FOR FRAME : 44
+2019-12-11 14:31:12 : Output for each object : []
+2019-12-11 14:31:12 : Output count for unique objects : {}
+2019-12-11 14:31:12 : ------------END OF A FRAME --------------
+2019-12-11 14:31:15 : FOR FRAME : 45
+2019-12-11 14:31:15 : Output for each object : []
+2019-12-11 14:31:15 : Output count for unique objects : {}
+2019-12-11 14:31:15 : ------------END OF A FRAME --------------
+2019-12-11 14:31:18 : FOR FRAME : 46
+2019-12-11 14:31:18 : Output for each object : []
+2019-12-11 14:31:18 : Output count for unique objects : {}
+2019-12-11 14:31:18 : ------------END OF A FRAME --------------
+2019-12-11 14:31:21 : FOR FRAME : 47
+2019-12-11 14:31:21 : Output for each object : []
+2019-12-11 14:31:21 : Output count for unique objects : {}
+2019-12-11 14:31:21 : ------------END OF A FRAME --------------
+2019-12-11 14:31:25 : FOR FRAME : 48
+2019-12-11 14:31:25 : Output for each object : []
+2019-12-11 14:31:25 : Output count for unique objects : {}
+2019-12-11 14:31:25 : ------------END OF A FRAME --------------
+2019-12-11 14:31:28 : FOR FRAME : 49
+2019-12-11 14:31:28 : Output for each object : []
+2019-12-11 14:31:28 : Output count for unique objects : {}
+2019-12-11 14:31:28 : ------------END OF A FRAME --------------
+2019-12-11 14:31:31 : FOR FRAME : 50
+2019-12-11 14:31:31 : Output for each object : []
+2019-12-11 14:31:31 : Output count for unique objects : {}
+2019-12-11 14:31:31 : ------------END OF A FRAME --------------
+2019-12-11 14:31:34 : FOR FRAME : 51
+2019-12-11 14:31:34 : Output for each object : []
+2019-12-11 14:31:34 : Output count for unique objects : {}
+2019-12-11 14:31:34 : ------------END OF A FRAME --------------
+2019-12-11 14:31:37 : FOR FRAME : 52
+2019-12-11 14:31:37 : Output for each object : []
+2019-12-11 14:31:37 : Output count for unique objects : {}
+2019-12-11 14:31:37 : ------------END OF A FRAME --------------
+2019-12-11 14:31:40 : FOR FRAME : 53
+2019-12-11 14:31:40 : Output for each object : []
+2019-12-11 14:31:40 : Output count for unique objects : {}
+2019-12-11 14:31:40 : ------------END OF A FRAME --------------
+2019-12-11 14:31:43 : FOR FRAME : 54
+2019-12-11 14:31:43 : Output for each object : []
+2019-12-11 14:31:43 : Output count for unique objects : {}
+2019-12-11 14:31:43 : ------------END OF A FRAME --------------
+2019-12-11 14:31:46 : FOR FRAME : 55
+2019-12-11 14:31:46 : Output for each object : []
+2019-12-11 14:31:46 : Output count for unique objects : {}
+2019-12-11 14:31:46 : ------------END OF A FRAME --------------
+2019-12-11 14:31:49 : FOR FRAME : 56
+2019-12-11 14:31:49 : Output for each object : []
+2019-12-11 14:31:49 : Output count for unique objects : {}
+2019-12-11 14:31:49 : ------------END OF A FRAME --------------
+2019-12-11 14:31:52 : FOR FRAME : 57
+2019-12-11 14:31:52 : Output for each object : []
+2019-12-11 14:31:52 : Output count for unique objects : {}
+2019-12-11 14:31:52 : ------------END OF A FRAME --------------
+2019-12-11 14:31:55 : FOR FRAME : 58
+2019-12-11 14:31:55 : Output for each object : []
+2019-12-11 14:31:55 : Output count for unique objects : {}
+2019-12-11 14:31:55 : ------------END OF A FRAME --------------
+2019-12-11 14:31:58 : FOR FRAME : 59
+2019-12-11 14:31:58 : Output for each object : []
+2019-12-11 14:31:58 : Output count for unique objects : {}
+2019-12-11 14:31:58 : ------------END OF A FRAME --------------
+2019-12-11 14:32:01 : FOR FRAME : 60
+2019-12-11 14:32:01 : Output for each object : []
+2019-12-11 14:32:01 : Output count for unique objects : {}
+2019-12-11 14:32:01 : ------------END OF A FRAME --------------
+2019-12-11 14:32:04 : FOR FRAME : 61
+2019-12-11 14:32:04 : Output for each object : []
+2019-12-11 14:32:04 : Output count for unique objects : {}
+2019-12-11 14:32:04 : ------------END OF A FRAME --------------
+2019-12-11 14:32:07 : FOR FRAME : 62
+2019-12-11 14:32:07 : Output for each object : []
+2019-12-11 14:32:07 : Output count for unique objects : {}
+2019-12-11 14:32:07 : ------------END OF A FRAME --------------
+2019-12-11 14:32:10 : FOR FRAME : 63
+2019-12-11 14:32:10 : Output for each object : []
+2019-12-11 14:32:10 : Output count for unique objects : {}
+2019-12-11 14:32:10 : ------------END OF A FRAME --------------
+2019-12-11 14:32:13 : FOR FRAME : 64
+2019-12-11 14:32:13 : Output for each object : []
+2019-12-11 14:32:13 : Output count for unique objects : {}
+2019-12-11 14:32:13 : ------------END OF A FRAME --------------
+2019-12-11 14:32:16 : FOR FRAME : 65
+2019-12-11 14:32:16 : Output for each object : []
+2019-12-11 14:32:16 : Output count for unique objects : {}
+2019-12-11 14:32:16 : ------------END OF A FRAME --------------
+2019-12-11 14:32:19 : FOR FRAME : 66
+2019-12-11 14:32:19 : Output for each object : []
+2019-12-11 14:32:19 : Output count for unique objects : {}
+2019-12-11 14:32:19 : ------------END OF A FRAME --------------
+2019-12-11 14:32:22 : FOR FRAME : 67
+2019-12-11 14:32:22 : Output for each object : []
+2019-12-11 14:32:22 : Output count for unique objects : {}
+2019-12-11 14:32:22 : ------------END OF A FRAME --------------
+2019-12-11 14:32:25 : FOR FRAME : 68
+2019-12-11 14:32:25 : Output for each object : []
+2019-12-11 14:32:25 : Output count for unique objects : {}
+2019-12-11 14:32:25 : ------------END OF A FRAME --------------
+2019-12-11 14:32:28 : FOR FRAME : 69
+2019-12-11 14:32:28 : Output for each object : []
+2019-12-11 14:32:28 : Output count for unique objects : {}
+2019-12-11 14:32:28 : ------------END OF A FRAME --------------
+2019-12-11 14:32:31 : FOR FRAME : 70
+2019-12-11 14:32:31 : Output for each object : []
+2019-12-11 14:32:31 : Output count for unique objects : {}
+2019-12-11 14:32:31 : ------------END OF A FRAME --------------
+2019-12-11 14:32:34 : FOR FRAME : 71
+2019-12-11 14:32:34 : Output for each object : []
+2019-12-11 14:32:34 : Output count for unique objects : {}
+2019-12-11 14:32:34 : ------------END OF A FRAME --------------
+2019-12-11 14:32:37 : FOR FRAME : 72
+2019-12-11 14:32:37 : Output for each object : []
+2019-12-11 14:32:37 : Output count for unique objects : {}
+2019-12-11 14:32:37 : ------------END OF A FRAME --------------
+2019-12-11 14:32:40 : FOR FRAME : 73
+2019-12-11 14:32:40 : Output for each object : []
+2019-12-11 14:32:40 : Output count for unique objects : {}
+2019-12-11 14:32:40 : ------------END OF A FRAME --------------
+2019-12-11 14:32:43 : FOR FRAME : 74
+2019-12-11 14:32:43 : Output for each object : []
+2019-12-11 14:32:43 : Output count for unique objects : {}
+2019-12-11 14:32:43 : ------------END OF A FRAME --------------
+2019-12-11 14:32:46 : FOR FRAME : 75
+2019-12-11 14:32:46 : Output for each object : []
+2019-12-11 14:32:46 : Output count for unique objects : {}
+2019-12-11 14:32:46 : ------------END OF A FRAME --------------
+2019-12-11 14:32:49 : FOR FRAME : 76
+2019-12-11 14:32:49 : Output for each object : []
+2019-12-11 14:32:49 : Output count for unique objects : {}
+2019-12-11 14:32:49 : ------------END OF A FRAME --------------
+2019-12-11 14:32:52 : FOR FRAME : 77
+2019-12-11 14:32:52 : Output for each object : []
+2019-12-11 14:32:52 : Output count for unique objects : {}
+2019-12-11 14:32:52 : ------------END OF A FRAME --------------
+2019-12-11 14:32:55 : FOR FRAME : 78
+2019-12-11 14:32:55 : Output for each object : []
+2019-12-11 14:32:55 : Output count for unique objects : {}
+2019-12-11 14:32:55 : ------------END OF A FRAME --------------
+2019-12-11 14:32:58 : FOR FRAME : 79
+2019-12-11 14:32:58 : Output for each object : []
+2019-12-11 14:32:58 : Output count for unique objects : {}
+2019-12-11 14:32:58 : ------------END OF A FRAME --------------
+2019-12-11 14:33:01 : FOR FRAME : 80
+2019-12-11 14:33:01 : Output for each object : []
+2019-12-11 14:33:01 : Output count for unique objects : {}
+2019-12-11 14:33:01 : ------------END OF A FRAME --------------
+2019-12-11 14:33:04 : FOR FRAME : 81
+2019-12-11 14:33:04 : Output for each object : []
+2019-12-11 14:33:04 : Output count for unique objects : {}
+2019-12-11 14:33:04 : ------------END OF A FRAME --------------
+2019-12-11 14:33:07 : FOR FRAME : 82
+2019-12-11 14:33:07 : Output for each object : []
+2019-12-11 14:33:07 : Output count for unique objects : {}
+2019-12-11 14:33:07 : ------------END OF A FRAME --------------
+2019-12-11 14:33:10 : FOR FRAME : 83
+2019-12-11 14:33:10 : Output for each object : []
+2019-12-11 14:33:10 : Output count for unique objects : {}
+2019-12-11 14:33:10 : ------------END OF A FRAME --------------
+2019-12-11 14:33:13 : FOR FRAME : 84
+2019-12-11 14:33:13 : Output for each object : []
+2019-12-11 14:33:13 : Output count for unique objects : {}
+2019-12-11 14:33:13 : ------------END OF A FRAME --------------
+2019-12-11 14:33:16 : FOR FRAME : 85
+2019-12-11 14:33:16 : Output for each object : []
+2019-12-11 14:33:16 : Output count for unique objects : {}
+2019-12-11 14:33:16 : ------------END OF A FRAME --------------
+2019-12-11 14:33:19 : FOR FRAME : 86
+2019-12-11 14:33:19 : Output for each object : []
+2019-12-11 14:33:19 : Output count for unique objects : {}
+2019-12-11 14:33:19 : ------------END OF A FRAME --------------
+2019-12-11 14:33:22 : FOR FRAME : 87
+2019-12-11 14:33:22 : Output for each object : []
+2019-12-11 14:33:22 : Output count for unique objects : {}
+2019-12-11 14:33:22 : ------------END OF A FRAME --------------
+2019-12-11 14:33:25 : FOR FRAME : 88
+2019-12-11 14:33:25 : Output for each object : []
+2019-12-11 14:33:25 : Output count for unique objects : {}
+2019-12-11 14:33:25 : ------------END OF A FRAME --------------
+2019-12-11 14:33:28 : FOR FRAME : 89
+2019-12-11 14:33:28 : Output for each object : []
+2019-12-11 14:33:28 : Output count for unique objects : {}
+2019-12-11 14:33:28 : ------------END OF A FRAME --------------
+2019-12-11 14:33:31 : FOR FRAME : 90
+2019-12-11 14:33:31 : Output for each object : []
+2019-12-11 14:33:31 : Output count for unique objects : {}
+2019-12-11 14:33:31 : ------------END OF A FRAME --------------
+2019-12-11 14:33:34 : FOR FRAME : 91
+2019-12-11 14:33:34 : Output for each object : []
+2019-12-11 14:33:34 : Output count for unique objects : {}
+2019-12-11 14:33:34 : ------------END OF A FRAME --------------
+2019-12-11 14:33:37 : FOR FRAME : 92
+2019-12-11 14:33:37 : Output for each object : []
+2019-12-11 14:33:37 : Output count for unique objects : {}
+2019-12-11 14:33:37 : ------------END OF A FRAME --------------
+2019-12-11 14:33:40 : FOR FRAME : 93
+2019-12-11 14:33:40 : Output for each object : []
+2019-12-11 14:33:40 : Output count for unique objects : {}
+2019-12-11 14:33:40 : ------------END OF A FRAME --------------
+2019-12-11 14:33:43 : FOR FRAME : 94
+2019-12-11 14:33:43 : Output for each object : []
+2019-12-11 14:33:43 : Output count for unique objects : {}
+2019-12-11 14:33:43 : ------------END OF A FRAME --------------
+2019-12-11 14:33:46 : FOR FRAME : 95
+2019-12-11 14:33:46 : Output for each object : []
+2019-12-11 14:33:46 : Output count for unique objects : {}
+2019-12-11 14:33:46 : ------------END OF A FRAME --------------
+2019-12-11 14:33:49 : FOR FRAME : 96
+2019-12-11 14:33:49 : Output for each object : []
+2019-12-11 14:33:49 : Output count for unique objects : {}
+2019-12-11 14:33:49 : ------------END OF A FRAME --------------
+2019-12-11 14:33:52 : FOR FRAME : 97
+2019-12-11 14:33:52 : Output for each object : []
+2019-12-11 14:33:52 : Output count for unique objects : {}
+2019-12-11 14:33:52 : ------------END OF A FRAME --------------
+2019-12-11 14:33:56 : FOR FRAME : 98
+2019-12-11 14:33:56 : Output for each object : []
+2019-12-11 14:33:56 : Output count for unique objects : {}
+2019-12-11 14:33:56 : ------------END OF A FRAME --------------
+2019-12-11 14:33:59 : FOR FRAME : 99
+2019-12-11 14:33:59 : Output for each object : []
+2019-12-11 14:33:59 : Output count for unique objects : {}
+2019-12-11 14:33:59 : ------------END OF A FRAME --------------
+2019-12-11 14:34:01 : FOR FRAME : 100
+2019-12-11 14:34:01 : Output for each object : []
+2019-12-11 14:34:01 : Output count for unique objects : {}
+2019-12-11 14:34:01 : ------------END OF A FRAME --------------
+2019-12-11 14:34:05 : FOR FRAME : 101
+2019-12-11 14:34:05 : Output for each object : []
+2019-12-11 14:34:05 : Output count for unique objects : {}
+2019-12-11 14:34:05 : ------------END OF A FRAME --------------
+2019-12-11 14:34:08 : FOR FRAME : 102
+2019-12-11 14:34:08 : Output for each object : []
+2019-12-11 14:34:08 : Output count for unique objects : {}
+2019-12-11 14:34:08 : ------------END OF A FRAME --------------
+2019-12-11 14:34:11 : FOR FRAME : 103
+2019-12-11 14:34:11 : Output for each object : []
+2019-12-11 14:34:11 : Output count for unique objects : {}
+2019-12-11 14:34:11 : ------------END OF A FRAME --------------
+2019-12-11 14:34:14 : FOR FRAME : 104
+2019-12-11 14:34:14 : Output for each object : []
+2019-12-11 14:34:14 : Output count for unique objects : {}
+2019-12-11 14:34:14 : ------------END OF A FRAME --------------
+2019-12-11 14:34:17 : FOR FRAME : 105
+2019-12-11 14:34:17 : Output for each object : []
+2019-12-11 14:34:17 : Output count for unique objects : {}
+2019-12-11 14:34:17 : ------------END OF A FRAME --------------
+2019-12-11 14:34:20 : FOR FRAME : 106
+2019-12-11 14:34:20 : Output for each object : []
+2019-12-11 14:34:20 : Output count for unique objects : {}
+2019-12-11 14:34:20 : ------------END OF A FRAME --------------
+2019-12-11 14:34:23 : FOR FRAME : 107
+2019-12-11 14:34:23 : Output for each object : []
+2019-12-11 14:34:23 : Output count for unique objects : {}
+2019-12-11 14:34:23 : ------------END OF A FRAME --------------
+2019-12-11 14:34:26 : FOR FRAME : 108
+2019-12-11 14:34:26 : Output for each object : []
+2019-12-11 14:34:26 : Output count for unique objects : {}
+2019-12-11 14:34:26 : ------------END OF A FRAME --------------
+2019-12-11 14:34:29 : FOR FRAME : 109
+2019-12-11 14:34:29 : Output for each object : []
+2019-12-11 14:34:29 : Output count for unique objects : {}
+2019-12-11 14:34:29 : ------------END OF A FRAME --------------
+2019-12-11 14:34:32 : FOR FRAME : 110
+2019-12-11 14:34:32 : Output for each object : []
+2019-12-11 14:34:32 : Output count for unique objects : {}
+2019-12-11 14:34:32 : ------------END OF A FRAME --------------
+2019-12-11 14:34:35 : FOR FRAME : 111
+2019-12-11 14:34:35 : Output for each object : []
+2019-12-11 14:34:35 : Output count for unique objects : {}
+2019-12-11 14:34:35 : ------------END OF A FRAME --------------
+2019-12-11 14:34:38 : FOR FRAME : 112
+2019-12-11 14:34:38 : Output for each object : []
+2019-12-11 14:34:38 : Output count for unique objects : {}
+2019-12-11 14:34:38 : ------------END OF A FRAME --------------
+2019-12-11 14:34:41 : FOR FRAME : 113
+2019-12-11 14:34:41 : Output for each object : []
+2019-12-11 14:34:41 : Output count for unique objects : {}
+2019-12-11 14:34:41 : ------------END OF A FRAME --------------
+2019-12-11 14:34:44 : FOR FRAME : 114
+2019-12-11 14:34:44 : Output for each object : []
+2019-12-11 14:34:44 : Output count for unique objects : {}
+2019-12-11 14:34:44 : ------------END OF A FRAME --------------
+2019-12-11 14:34:47 : FOR FRAME : 115
+2019-12-11 14:34:47 : Output for each object : []
+2019-12-11 14:34:47 : Output count for unique objects : {}
+2019-12-11 14:34:47 : ------------END OF A FRAME --------------
+2019-12-11 14:34:50 : FOR FRAME : 116
+2019-12-11 14:34:50 : Output for each object : []
+2019-12-11 14:34:50 : Output count for unique objects : {}
+2019-12-11 14:34:50 : ------------END OF A FRAME --------------
+2019-12-11 14:34:53 : FOR FRAME : 117
+2019-12-11 14:34:53 : Output for each object : []
+2019-12-11 14:34:53 : Output count for unique objects : {}
+2019-12-11 14:34:53 : ------------END OF A FRAME --------------
+2019-12-11 14:34:56 : FOR FRAME : 118
+2019-12-11 14:34:56 : Output for each object : []
+2019-12-11 14:34:56 : Output count for unique objects : {}
+2019-12-11 14:34:56 : ------------END OF A FRAME --------------
+2019-12-11 14:34:59 : FOR FRAME : 119
+2019-12-11 14:34:59 : Output for each object : []
+2019-12-11 14:34:59 : Output count for unique objects : {}
+2019-12-11 14:34:59 : ------------END OF A FRAME --------------
+2019-12-11 14:35:02 : FOR FRAME : 120
+2019-12-11 14:35:02 : Output for each object : []
+2019-12-11 14:35:02 : Output count for unique objects : {}
+2019-12-11 14:35:02 : ------------END OF A FRAME --------------
+2019-12-11 14:35:05 : FOR FRAME : 121
+2019-12-11 14:35:05 : Output for each object : []
+2019-12-11 14:35:05 : Output count for unique objects : {}
+2019-12-11 14:35:05 : ------------END OF A FRAME --------------
+2019-12-11 14:35:08 : FOR FRAME : 122
+2019-12-11 14:35:08 : Output for each object : []
+2019-12-11 14:35:08 : Output count for unique objects : {}
+2019-12-11 14:35:08 : ------------END OF A FRAME --------------
+2019-12-11 14:35:11 : FOR FRAME : 123
+2019-12-11 14:35:11 : Output for each object : []
+2019-12-11 14:35:11 : Output count for unique objects : {}
+2019-12-11 14:35:11 : ------------END OF A FRAME --------------
+2019-12-11 14:35:14 : FOR FRAME : 124
+2019-12-11 14:35:14 : Output for each object : []
+2019-12-11 14:35:14 : Output count for unique objects : {}
+2019-12-11 14:35:14 : ------------END OF A FRAME --------------
+2019-12-11 14:35:17 : FOR FRAME : 125
+2019-12-11 14:35:17 : Output for each object : []
+2019-12-11 14:35:17 : Output count for unique objects : {}
+2019-12-11 14:35:17 : ------------END OF A FRAME --------------
+2019-12-11 14:35:20 : FOR FRAME : 126
+2019-12-11 14:35:20 : Output for each object : []
+2019-12-11 14:35:20 : Output count for unique objects : {}
+2019-12-11 14:35:20 : ------------END OF A FRAME --------------
+2019-12-11 14:35:23 : FOR FRAME : 127
+2019-12-11 14:35:23 : Output for each object : []
+2019-12-11 14:35:23 : Output count for unique objects : {}
+2019-12-11 14:35:23 : ------------END OF A FRAME --------------
+2019-12-11 14:35:27 : FOR FRAME : 128
+2019-12-11 14:35:27 : Output for each object : []
+2019-12-11 14:35:27 : Output count for unique objects : {}
+2019-12-11 14:35:27 : ------------END OF A FRAME --------------
+2019-12-11 14:35:29 : FOR FRAME : 129
+2019-12-11 14:35:29 : Output for each object : []
+2019-12-11 14:35:29 : Output count for unique objects : {}
+2019-12-11 14:35:29 : ------------END OF A FRAME --------------
+2019-12-11 14:35:32 : FOR FRAME : 130
+2019-12-11 14:35:32 : Output for each object : []
+2019-12-11 14:35:32 : Output count for unique objects : {}
+2019-12-11 14:35:32 : ------------END OF A FRAME --------------
+2019-12-11 14:35:36 : FOR FRAME : 131
+2019-12-11 14:35:36 : Output for each object : []
+2019-12-11 14:35:36 : Output count for unique objects : {}
+2019-12-11 14:35:36 : ------------END OF A FRAME --------------
+2019-12-11 14:35:39 : FOR FRAME : 132
+2019-12-11 14:35:39 : Output for each object : []
+2019-12-11 14:35:39 : Output count for unique objects : {}
+2019-12-11 14:35:39 : ------------END OF A FRAME --------------
+2019-12-11 14:35:42 : FOR FRAME : 133
+2019-12-11 14:35:42 : Output for each object : []
+2019-12-11 14:35:42 : Output count for unique objects : {}
+2019-12-11 14:35:42 : ------------END OF A FRAME --------------
+2019-12-11 14:35:45 : FOR FRAME : 134
+2019-12-11 14:35:45 : Output for each object : []
+2019-12-11 14:35:45 : Output count for unique objects : {}
+2019-12-11 14:35:45 : ------------END OF A FRAME --------------
+2019-12-11 14:35:48 : FOR FRAME : 135
+2019-12-11 14:35:48 : Output for each object : []
+2019-12-11 14:35:48 : Output count for unique objects : {}
+2019-12-11 14:35:48 : ------------END OF A FRAME --------------
+2019-12-11 14:35:51 : FOR FRAME : 136
+2019-12-11 14:35:51 : Output for each object : []
+2019-12-11 14:35:51 : Output count for unique objects : {}
+2019-12-11 14:35:51 : ------------END OF A FRAME --------------
+2019-12-11 14:35:54 : FOR FRAME : 137
+2019-12-11 14:35:54 : Output for each object : []
+2019-12-11 14:35:54 : Output count for unique objects : {}
+2019-12-11 14:35:54 : ------------END OF A FRAME --------------
+2019-12-11 14:35:57 : FOR FRAME : 138
+2019-12-11 14:35:57 : Output for each object : []
+2019-12-11 14:35:57 : Output count for unique objects : {}
+2019-12-11 14:35:57 : ------------END OF A FRAME --------------
+2019-12-11 14:36:00 : FOR FRAME : 139
+2019-12-11 14:36:00 : Output for each object : []
+2019-12-11 14:36:00 : Output count for unique objects : {}
+2019-12-11 14:36:00 : ------------END OF A FRAME --------------
+2019-12-11 14:36:03 : FOR FRAME : 140
+2019-12-11 14:36:03 : Output for each object : []
+2019-12-11 14:36:03 : Output count for unique objects : {}
+2019-12-11 14:36:03 : ------------END OF A FRAME --------------
+2019-12-11 14:36:06 : FOR FRAME : 141
+2019-12-11 14:36:06 : Output for each object : []
+2019-12-11 14:36:06 : Output count for unique objects : {}
+2019-12-11 14:36:06 : ------------END OF A FRAME --------------
+2019-12-11 14:36:09 : FOR FRAME : 142
+2019-12-11 14:36:09 : Output for each object : [{'name': 'helmet', 'box_points': [278, 243, 569, 467], 'percentage_probability': 92.84920692443848}]
+2019-12-11 14:36:09 : Output count for unique objects : {'helmet': 1}
+2019-12-11 14:36:09 : ------------END OF A FRAME --------------
+2019-12-11 14:36:09 : ALERT : Identified Object : helmet
+2019-12-11 14:36:17 : Successfully sent alert email
+2019-12-11 14:36:19 : Successfully sent alert SMS
+2019-12-11 14:36:22 : FOR FRAME : 143
+2019-12-11 14:36:22 : Output for each object : [{'name': 'helmet', 'box_points': [274, 226, 552, 447], 'percentage_probability': 92.63463616371155}]
+2019-12-11 14:36:22 : Output count for unique objects : {'helmet': 1}
+2019-12-11 14:36:22 : ------------END OF A FRAME --------------
+2019-12-11 14:36:22 : ALERT : Identified Object : helmet
+2019-12-11 14:36:25 : FOR FRAME : 144
+2019-12-11 14:36:25 : Output for each object : [{'name': 'helmet', 'box_points': [274, 226, 552, 447], 'percentage_probability': 92.59939193725586}]
+2019-12-11 14:36:25 : Output count for unique objects : {'helmet': 1}
+2019-12-11 14:36:25 : ------------END OF A FRAME --------------
+2019-12-11 14:36:25 : ALERT : Identified Object : helmet
+2019-12-11 14:36:29 : FOR FRAME : 145
+2019-12-11 14:36:29 : Output for each object : [{'name': 'helmet', 'box_points': [269, 207, 540, 435], 'percentage_probability': 91.26211404800415}]
+2019-12-11 14:36:29 : Output count for unique objects : {'helmet': 1}
+2019-12-11 14:36:29 : ------------END OF A FRAME --------------
+2019-12-11 14:36:29 : ALERT : Identified Object : helmet
+2019-12-11 14:36:32 : FOR FRAME : 146
+2019-12-11 14:36:32 : Output for each object : []
+2019-12-11 14:36:32 : Output count for unique objects : {}
+2019-12-11 14:36:32 : ------------END OF A FRAME --------------
+2019-12-11 14:36:35 : FOR FRAME : 147
+2019-12-11 14:36:35 : Output for each object : []
+2019-12-11 14:36:35 : Output count for unique objects : {}
+2019-12-11 14:36:35 : ------------END OF A FRAME --------------
+2019-12-11 14:36:39 : FOR FRAME : 148
+2019-12-11 14:36:39 : Output for each object : []
+2019-12-11 14:36:39 : Output count for unique objects : {}
+2019-12-11 14:36:39 : ------------END OF A FRAME --------------
+2019-12-11 14:36:42 : FOR FRAME : 149
+2019-12-11 14:36:42 : Output for each object : []
+2019-12-11 14:36:42 : Output count for unique objects : {}
+2019-12-11 14:36:42 : ------------END OF A FRAME --------------
