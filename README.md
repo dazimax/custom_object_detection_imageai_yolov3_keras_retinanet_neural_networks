@@ -36,3 +36,6 @@ Outputs: Detected Objects, Email Notification send status, SMS Notification send
 
 # DEMO VIDEO
 https://www.youtube.com/watch?v=2g1QqlS_MHQ
+
+# DATASET MODEL & TEST DATA LINK
+https://mega.nz/#F!GANhzITS!LZ2qDqKW43usfPAoFKmelA
